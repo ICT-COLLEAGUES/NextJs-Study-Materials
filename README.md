@@ -24,7 +24,7 @@ Our goal is to deepen our understanding of these features while building practic
 
 ## How to Contribute
 1. **Fork the repository to have your own copy of this repository in your account**:
-    - Do this my Clicking the fork button on the top right section of the repository as shown below:
+    - Do this my Clicking the fork button on the top right section of the repository as shown in the image below:
      ![ForkExample](assets/images/fork-button.png)
 
 
