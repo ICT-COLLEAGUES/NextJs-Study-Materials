@@ -23,29 +23,32 @@ Our goal is to deepen our understanding of these features while building practic
 - **/api**: API routes for server-side functionality.
 
 ## How to Contribute
+1. **Fork the repository to have your own copy of this repository in your account**:
+    - Do this my Clicking the fork button on the top right section of the repository as shown in the image below:
+     ![ForkExample](assets/images/fork-button.png)
 
-1. **Clone the repository**:
+
+2. **Clone the repository**:
     ```bash
     git clone https://github.com/your-username/nextjs-study-project.git
     ```
 
-2. **Install dependencies**:
+3. **Install dependencies**:
     ```bash
     npm install
     ```
-
-3. **Run the development server**:
+4. **Run the development server**:
     ```bash
     npm run dev
     ```
     Open [http://localhost:3000](http://localhost:3000) to view the project in your browser.
 
-4. **Create a branch** for your changes:
+5. **Create a branch** for your changes:
     ```bash
     git checkout -b feature/my-feature
     ```
 
-5. **Push changes** and submit a **pull request** for review:
+6. **Push changes** and submit a **pull request** for review:
     ```bash
     git push origin feature/my-feature
     ```
